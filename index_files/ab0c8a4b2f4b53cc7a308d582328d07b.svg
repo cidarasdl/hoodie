@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg data-name="Layer 1" height="2830.7" preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="84.7 84.7 2830.7 2830.7" width="2830.7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+><defs
+  ><linearGradient gradientUnits="userSpaceOnUse" id="a" x1="-1192.14" x2="3158.79" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1500" y2="1500"
+    ><stop offset="0" stop-color="#00dbff"
+      /><stop offset=".03" stop-color="#00dbff" stop-opacity=".95"
+      /><stop offset=".19" stop-color="#00dbff" stop-opacity=".7"
+      /><stop offset=".35" stop-color="#00dbff" stop-opacity=".49"
+      /><stop offset=".5" stop-color="#00dbff" stop-opacity=".31"
+      /><stop offset=".64" stop-color="#00dbff" stop-opacity=".18"
+      /><stop offset=".78" stop-color="#00dbff" stop-opacity=".08"
+      /><stop offset=".9" stop-color="#00dbff" stop-opacity=".02"
+      /><stop offset="1" stop-color="#00dbff" stop-opacity="0"
+    /></linearGradient
+  ></defs
+  ><circle cx="1500" cy="1500" fill="url(#a)" r="1415.33"
+/></svg
+>
